@@ -1,7 +1,7 @@
-#Benchmarking
+# Benchmarking
 Hi, these are the codes for my Almukantarat 2026 referee. Enjoy!!
 
-##Why?
+## Why?
 
 Idk, I'm a masochist and I don't have a life. I hope I will qualify to the next stage :)
 
